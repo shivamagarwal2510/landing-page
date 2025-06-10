@@ -1,0 +1,4 @@
+/* Remove all content from App.css or delete the file if not needed.
+   The global styles are in src/index.css and component-specific styles are handled by Tailwind.
+   The default App.css styles might interfere with full-width landing page layout.
+*/
